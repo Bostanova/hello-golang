@@ -7,5 +7,5 @@ func main() {
 }
 
 func hello() string {
-	return "Hello ggo"
+	return "Hello Go"
 }
